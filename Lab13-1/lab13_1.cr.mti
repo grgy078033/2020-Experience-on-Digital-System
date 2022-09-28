@@ -1,0 +1,32 @@
+{C:/Users/user/Desktop/Experience on Digital System/Lab13-1/HA.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Experience on Digital System/Lab13-1/HA.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} {C:/Users/user/Desktop/Experience on Digital System/Lab13-1/AS_tb.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Experience on Digital System/Lab13-1/AS_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AS_tb
+
+Top level modules:
+	AS_tb
+
+} {} {}} {C:/Users/user/Desktop/Experience on Digital System/Lab13-1/FA.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Experience on Digital System/Lab13-1/FA.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HA
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {C:/Users/user/Desktop/Experience on Digital System/Lab13-1/AS.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Experience on Digital System/Lab13-1/AS.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HA
+-- Compiling module FA
+-- Compiling module AS
+
+Top level modules:
+	AS
+
+} {} {}}
